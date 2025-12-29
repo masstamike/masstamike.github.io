@@ -12,6 +12,7 @@ for use in OTA update systems. Following his time there, he went on to work for
 a FinTech startup named Marqeta where he became an expert in Thales payment
 HSMs. He now works at Instacart's Privacy Engineering team and enjoys working on
 his home lab and contributing to Open Source projects in his free time.
+
 [GitHub](https://github.com/masstamike)
 
 Questions or comments? Send them to
