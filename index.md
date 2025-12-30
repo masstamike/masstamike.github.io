@@ -1,4 +1,4 @@
-# About the Author
+# About
 Michael Sawyer is a ten year veteran of the Cyber Security industry. After
 graduating CSU, Chico where he studied Computer Science with a minor in
 Mathematics, he went on to complete an extended internship with Hewlett-Packard,
