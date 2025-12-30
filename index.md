@@ -1,7 +1,7 @@
 # About
-Michael Sawyer is a ten year veteran of the Cyber Security industry. After
+Michael Sawyer is a ten+ year veteran of the Cyber Security industry. After
 graduating CSU, Chico where he studied Computer Science with a minor in
-Mathematics, he went on to complete an extended internship with Hewlett-Packard,
+Mathematics. He went on to complete an extended internship with Hewlett-Packard,
 became a DevOps Engineer at Veeva Systems and after a couple years, transitioned
 to become a Security engineer. Following Veeva Systems, Michael worked for an
 IoT startup, where he gained experience working with MQTT, embedded systems,
