@@ -1,3 +1,2 @@
-remote_theme: "jekyll/minima@v2.5.2"
-minima:
-  skin: dark
+title: Michael Sawyer
+theme: jekyll-theme-midnight

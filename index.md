@@ -1,6 +1,4 @@
-# Michael Sawyer
-
-## About the Author
+# About the Author
 Michael Sawyer is a ten year veteran of the Cyber Security industry. After
 graduating CSU, Chico where he studied Computer Science with a minor in
 Mathematics, he went on to complete an extended internship with Hewlett-Packard,
@@ -13,7 +11,7 @@ a FinTech startup named Marqeta where he became an expert in Thales payment
 HSMs. He now works at Instacart's Privacy Engineering team and enjoys working on
 his home lab and contributing to Open Source projects in his free time.
 
-[GitHub](https://github.com/masstamike)
+[GitHub](https://github.com/masstamike) | [Resume](./Notes/resume) | 
+[Email](mailto:masstamike@msawyer.io) | [LinkedIn](https://www.linkedin.com/in/michaelasawyer)
 
-Questions or comments? Send them to
-[Michael Sawyer](michaelsawyer92@gmail.com) | [LinkedIn](https://www.linkedin.com/in/michaelasawyer)
+Questions or comments? Feel free to reach out!
