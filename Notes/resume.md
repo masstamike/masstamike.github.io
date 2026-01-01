@@ -1,8 +1,9 @@
+
 # Michael Sawyer
 
 |          |                                 |
 | -------- | ------------------------------- |
-| Email    | masstamike@msawyer.io           |
+| Email    | [masstamike@msawyer.io](mailto:masstamike@msawyer.io) |
 | Github   | <https://github.com/masstamike> |
 | Website  | <https://msawyer.io/>           |
 | LinkedIn | <https://www.linkedin.com/in/michaelasawyer/> |
